@@ -1,4 +1,7 @@
 # 💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;ML+Model+Integration;AI+Powered+Systems;Solving+Real+World+Problems" />
+</p>
 
 Hi, I’m **Abhinav**, a final-year **B.Tech undergraduate** and a **Full-Stack Developer** passionate about building **end-to-end applications integrated with Machine Learning and AI models** to solve real-world problems.  
 I enjoy working across the stack — from intuitive user interfaces to scalable backends and intelligent systems.
@@ -43,22 +46,27 @@ I love transforming complex technical challenges into **practical, impactful sol
 
 ---
 
-## 💻 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,mongodb,aws&perline=6&theme=dark)
+## 🚀 Tech Stack
 
-## 🐍 Contribution Graph
-![snake animation](https://github.com/22bq1a42d4/22bq1a42d4/blob/output/github-contribution-grid-snake.svg)
-
-## 📊 3D Contributions
-![3D Profile](https://github.com/22bq1a42d4/22bq1a42d4/blob/main/profile-3d-contrib/profile-night-green.svg)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;ML+Model+Integration;Building+AI+Powered+Systems;Solving+Real+World+Problems" />
+### 🧩 Full-Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,flask,flutter&theme=dark" />
 </p>
 
-## 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=22bq1a42d4&theme=radical&no-frame=true&row=1)
+### 🤖 Machine Learning & AI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+</p>
 
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws&theme=dark" />
+</p>
+
+### 🛠 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+</p>
 
 ---
 ## 📊 GitHub Stats
