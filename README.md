@@ -43,27 +43,9 @@ I love transforming complex technical challenges into **practical, impactful sol
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,mongodb,aws&perline=6&theme=dark)
 
-### 🧩 Full-Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,flutter&theme=dark" />
-</p>
-
-### 🤖 AI / ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws&theme=dark" />
-</p>
-
-### 🛠 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
-</p>
 
 ---
 ## 📊 GitHub Stats
