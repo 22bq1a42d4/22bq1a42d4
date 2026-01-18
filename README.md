@@ -87,9 +87,9 @@ I love transforming complex technical challenges into **practical, impactful sol
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=22bq1a42d4&theme=shadow_green&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=22bq1a42d4&theme=shadow_green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=22bq1a42d4&theme=shadow_green&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=22bq1a42d4&theme=tokyonight&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=22bq1a42d4&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=22bq1a42d4&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
