@@ -87,9 +87,9 @@ I love transforming complex technical challenges into **practical, impactful sol
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=22bq1a42d4&theme=ayu-mirage&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=22bq1a42d4&theme=ayu-mirage&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=22bq1a42d4&theme=ayu-mirage&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=22bq1a42d4&bg_color=0D1117&title_color=00E676&text_color=FFFFFF&icon_color=FFD700&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=22bq1a42d4&background=0D1117&ring=00E676&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=22bq1a42d4&bg_color=0D1117&title_color=00E676&text_color=FFFFFF&hide_border=true&layout=compact)
 
 ---
 
