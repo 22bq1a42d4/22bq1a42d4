@@ -46,6 +46,19 @@ I love transforming complex technical challenges into **practical, impactful sol
 ## 💻 Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,mongodb,aws&perline=6&theme=dark)
 
+## 🐍 Contribution Graph
+![snake animation](https://github.com/22bq1a42d4/22bq1a42d4/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 3D Contributions
+![3D Profile](https://github.com/22bq1a42d4/22bq1a42d4/blob/main/profile-3d-contrib/profile-night-green.svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;ML+Model+Integration;Building+AI+Powered+Systems;Solving+Real+World+Problems" />
+</p>
+
+## 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=22bq1a42d4&theme=radical&no-frame=true&row=1)
+
 
 ---
 ## 📊 GitHub Stats
