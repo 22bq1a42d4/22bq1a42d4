@@ -80,7 +80,8 @@ I love transforming complex technical challenges into **practical, impactful sol
 
 
 ## 📈 3D Contribution Graph
-![](https://github.com/22bq1a42d4/22bq1a42d4/blob/main/profile-3d-contrib/profile-night-green.svg)
+![](https://raw.githubusercontent.com/22bq1a42d4/22bq1a42d4/main/profile-3d-contrib/profile-night-green.svg)
+
 
 ---
 
