@@ -74,6 +74,14 @@ I love transforming complex technical challenges into **practical, impactful sol
 ![](https://nirzak-streak-stats.vercel.app/?user=22bq1a42d4&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=22bq1a42d4&theme=radical&hide_border=false&layout=compact)
 
+
+## 🐍 Contribution Snake
+![snake animation](https://github.com/22bq1a42d4/22bq1a42d4/blob/output/github-contribution-grid-snake.svg)
+
+
+## 📈 3D Contribution Graph
+![](https://github.com/22bq1a42d4/22bq1a42d4/blob/main/profile-3d-contrib/profile-night-green.svg)
+
 ---
 
 ### ✍️ Random Dev Quote
