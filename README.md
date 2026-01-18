@@ -1,36 +1,38 @@
 # 💫 About Me
 
-Hi, I’m **Abhinav**, a final-year **B.Tech undergraduate** with a strong interest in **Frontend Development and AI-driven systems**.  
-I enjoy building **scalable, user-centric web and mobile applications** and intelligent solutions that address real-world problems.
+Hi, I’m **Abhinav**, a final-year **B.Tech undergraduate** and a **Full-Stack Developer** passionate about building **end-to-end applications integrated with Machine Learning and AI models** to solve real-world problems.  
+I enjoy working across the stack — from intuitive user interfaces to scalable backends and intelligent systems.
 
 ---
 
 ### 🔭 Currently Working On
-- AI-powered **virtual assistants & chatbots** (text, voice, and image-based)
-- Full-stack web applications using **React, Node.js, and MongoDB**
+- Full-stack applications with **ML/AI model integration**
+- **AI-powered systems** such as virtual assistants and intelligent chatbots (text, voice & image)
+- Scalable backend services using **Node.js, Flask, and databases**
 
 ### 👯 Looking to Collaborate On
-- Frontend & full-stack projects  
-- **AI / NLP-based applications**  
-- Open-source tools focused on **automation and productivity**
+- **Full-stack projects** solving real-world problems  
+- AI / ML-driven applications and intelligent systems  
+- Open-source tools related to **automation, productivity, and data-driven solutions**
 
 ### 🤝 Looking for Help With
-- Training and optimizing ML models  
-- Designing **scalable backend architectures**  
-- Deploying AI systems efficiently in production
+- Optimizing and deploying ML models in production  
+- Designing **scalable and secure system architectures**  
+- Improving performance of AI-integrated applications
 
 ### 🌱 Currently Learning
-- Machine Learning fundamentals & NLP pipelines  
-- System design concepts  
-- Production-level **React and Flutter** best practices
+- Machine Learning & Deep Learning fundamentals  
+- NLP pipelines and model training workflows  
+- System design and cloud-based deployment strategies
 
 ### 💬 Ask Me About
-- Frontend development (React, Angular, Flutter)  
-- Node.js & REST APIs  
-- Chatbots, virtual assistants, and project architecture
+- Full-stack development (React, Node.js, Flask)  
+- ML model integration in applications  
+- Chatbots, virtual assistants, and backend architecture
 
 ### ⚡ Fun Fact
-I love simplifying complex ideas into **clean, intuitive digital experiences** 🚀
+I love transforming complex technical challenges into **practical, impactful solutions** 🚀
+
 
 ---
 
